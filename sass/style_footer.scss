@@ -1,0 +1,67 @@
+//  FOOTER -------------------------------------------------------
+
+#colophon {
+    background-color: olivedrab;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#sectionFooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 25px 0;
+}
+
+.divFooter {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+.divFooter h2 {
+    font-size: 30px;
+}
+
+.divFooter hr {
+    height: 4px;
+    border: none;
+    background-color: white;
+}
+
+.divFooter p {
+    margin-bottom: 0!important;
+}
+
+.divFooter a {
+    color: white;
+    text-decoration: none;
+}
+
+#fin {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+#pFin {
+    font-style: italic;
+    font-size: 15px;
+    width: 80%;
+}
+
+@media screen and (max-width: 800px) {
+    #sectionFooter {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .divFooter {
+        width: 85%;
+        margin-top: 25px;
+    }
+}

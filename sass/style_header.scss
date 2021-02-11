@@ -1,0 +1,57 @@
+// HEADER -----------------------------------------------------------------
+
+#sectionHeader {
+    display: flex;
+    justify-content: space-around;
+}
+
+.site-header {
+
+    background-color: olivedrab;
+    padding: 50px 0;
+
+    h1 {
+        margin: 0 0 0 50px!important;
+        color: white;
+    }
+}
+
+#primary-menu {
+    display: flex;
+    list-style: none;
+}
+
+#primary-menu a {
+   margin: 0 25px;
+   color: white;
+   text-decoration: none;
+}
+
+#primary-menu {
+   display: flex!important;
+   align-items: center!important;
+}
+
+@media screen and (max-width: 800px) {
+    #sectionHeader {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #primary-menu {
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .site-header h1 {
+            margin: 0!important;
+            color: white;
+        }
+
+}

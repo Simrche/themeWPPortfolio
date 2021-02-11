@@ -1,0 +1,41 @@
+//  INDEX.PHP ------------------------------------------------------------
+
+#indexContent {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 35px;
+}
+
+#indexContent img {
+    width: 60%;
+    margin: 35px auto 0 auto;
+}
+
+#indexContent p {
+    font-size: 20px;
+    margin-top: 35px;
+}
+
+#indexContent a {
+    margin: 0 auto;
+    text-decoration: none;
+    background-color: grey;
+    border: solid 2px black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+#indexContent a:hover {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+}
+
+@media screen and (max-width: 800px) {
+    #indexContent img {
+        width: 90%;
+    }
+}
