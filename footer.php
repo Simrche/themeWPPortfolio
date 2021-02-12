@@ -17,7 +17,7 @@
 				<h2>Moi</h2>
 				<hr>
 				<p>
-					Pour assurer une bonne entente entre nous, le tutoiement est obligatoire. Tout vouvoiement entrainera le bannissement de ton IP de ce blog.
+					La seule chose qu'on aie à faire c'est d'avoir le courage de se lancer. On se lance, on aime, on se plante, on se relève. Mais il faut marcher la tête haute!
 				</p>
 			</div>
 			<div class='divFooter'>
