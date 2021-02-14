@@ -1,3 +1,9 @@
+VIDEO 1 : https://www.loom.com/share/42dba896046f4df5a5e21e4772da414c
+VIDEO 2 : https://www.loom.com/share/b6176bb6dbb647e5a724d3db9eeb9f03
+
+Lien inspi footer : https://profcitron.fr/
+
+
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
